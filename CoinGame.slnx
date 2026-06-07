@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CoinGame/CoinGame.vcxproj" Id="8dec6d4b-59b0-4c05-b3eb-fc1aaeac9d06" />
+</Solution>
