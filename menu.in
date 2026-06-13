@@ -1,0 +1,33 @@
+@Coin Game@
+> Play
+  Info
+  Quit
+(press 'W' / 'UP' & 'S' / 'DOWN' to go trough the options; press 'ENTER' / 'E' to select)
+#Game Modes#
+> 2 Players
+  Player & Bot
+  Player & MAX Bot
+  Player & Smart Bot
+  Right player starts: OFF
+  Blindfold mode: OFF
+  Max coin value: 15
+  Number of coins: 8
+  Back
+!Info!
+Game by Tuchel Andrei for Computer Science Qualification Project.
+
+Rules:
+-Each game has a number of "coins" with randomised values put in a row.
+-A player can choose between the first and last coin form the row.
+-The game ends when there are no more coins left.
+-The winner is the player with the highest score.
+
+Game controls:
+-P1: 'A' and 'D' to move and 'E' to select a coin
+-P2: Left and Right Arrow to move and 'ENTER' to select a coin
+
+
+Blindfold game mode:
+-The players can't see the coins' values until the game ends
+
+> Back
