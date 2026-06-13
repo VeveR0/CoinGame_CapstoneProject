@@ -1,3 +1,0 @@
-﻿  CoinGame.cpp
-D:\Apps\Projects\CoinGame\CoinGame\CoinGame.cpp(502,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  CoinGame.vcxproj -> D:\Apps\Projects\CoinGame\x64\Debug\CoinGame.exe
