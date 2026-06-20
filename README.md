@@ -46,3 +46,12 @@ Player 2:
 <img width="316" height="80" alt="image" src="https://github.com/user-attachments/assets/1a1e4526-0234-49a1-af76-b08c51e79882" />
 
 Display of each player's selected coins, their total score and the winner.
+
+# Built With
+
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-41AD48?style=for-the-badge)
+
+# Credits
+
+- Game concept and Smart Bot logic inspired by [Stable Sort](https://www.youtube.com/watch?v=h7WI98qKkN0&t=177s)
